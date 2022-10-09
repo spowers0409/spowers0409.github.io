@@ -8,5 +8,5 @@ project-date: October 2021
 client: MySQL
 category: Software Design
 description: <strong> Test </strong>
-<p> Testing paragraph </p>
+Testing paragraph
 ---
