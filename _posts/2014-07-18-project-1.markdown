@@ -8,6 +8,7 @@ project-date: October 2021
 client: MySQL
 category: Software Design
 description: <strong> Test </strong>Testing paragraph
+description: <strong> Test </strong>Testing paragraph
 ---
 
 # Heading
