@@ -5,7 +5,7 @@ date: 2014-07-18
 img: linearSearch.png
 alt: image-alt
 project-date: October 2021
-client: MySQL
+language: SQL
 category: Software Design
 description1: <strong> Briefly describe the artifact.  </strong>The artifact that I have chosen is from CS-260 - Data Structures and Algorithms. In this artifact, we were tasked with creating an array of numbers, and then requesting user input to determine where at in the array that the indexed number lies. This is a linear search algorithm that was created with C++.
 description2: <strong> Justify the inclusion of the artifact in your ePortfolio. </strong>The reason I chose this artifact is because I enjoy creating programs in both C++ and Python, and while C++ has always been a strong language with a long history of usage, Python is a newer language with growing popularity all over the world. Python has a large community of developers backing up and creating new libraries everyday. Python is not only great for beginner developers,but is also highly scalable, portable, flexible and extensible and can used for more advanced designs with applications in Machine Learning and Internet Of Things.
