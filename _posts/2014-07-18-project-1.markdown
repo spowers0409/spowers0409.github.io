@@ -7,22 +7,5 @@ alt: image-alt
 project-date: October 2021
 client: MySQL
 category: Software Design
-description: 
-## Briefly describe the artifact
-
-The artifact that I have chosen is from CS-260: Data Structures and Algorithms.
-In this artifact, we were tasked with creating an array of numbers, and then requesting user 
-input to determine where at in the array that the indexed number lies. 
-This is a linear search algorithm that was created in C++.
-
-## Justify the inclusion of the artifact in your ePortfolio
-
-The reason I chose this artifact is because I enjoy creating programs in both C++ and Python, and while
-C++ has always been a strong language with a long history of usage, Python is a newer language with
-growing popularity all over the world. Python has a large community of developers backing up and
-creating new libraries everyday. Python is not only great for beginner developers, but is also
-highly scalable, portable, flexible and extensible and can used for more advanced designs with applications in
-Machine Learning and Internet Of Things.
-
-## Reflect on the process of enhancing the artifact
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
