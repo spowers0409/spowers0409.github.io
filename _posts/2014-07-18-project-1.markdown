@@ -7,9 +7,6 @@ alt: image-alt
 project-date: October 2021
 client: MySQL
 category: Software Design
-description1: <strong> Briefly describe the artifact.  </strong>The artifact that I have chosen is from CS-260 - Data Structures and Algorithms.
-In this artifact, we were tasked with creating an array of numbers, and then requesting user 
-input to determine where at in the array that the indexed number lies. 
-This is a linear search algorithm that was created in C++.
+description1: <strong> Briefly describe the artifact.  </strong>The artifact that I have chosen is from CS-260 - Data Structures and Algorithms. In this artifact, we were tasked with creating an array of numbers, and then requesting user input to determine where at in the array that the indexed number lies. This is a linear search algorithm that was created C++.
 description2: Test for description 2
 ---
