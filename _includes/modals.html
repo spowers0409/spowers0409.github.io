@@ -31,11 +31,9 @@
             <p>{{ post.description2 }}</p>
             {% endif %} {% if post.description3 %}
             <p>{{ post.description3 }}</p>
+            {% endif %} {% if post.description4 %}
+            <p>{{ post.description4 }}</p>
             {% endif %}
-
-            <button type="button" class="btn btn-default" data-dismiss="modal">
-              <i class="fa fa-times"></i> Close
-            </button>
 
             <ul class="list-inline item-details">
               {% if post.language %}
