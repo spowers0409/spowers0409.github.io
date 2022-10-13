@@ -41,6 +41,12 @@
             <p>{{ post.description3 }}</p>
             {% endif %}
 
+            <img
+              src="img/portfolio/{{ post.imgThree }}"
+              class="img-responsive img-centered"
+              alt="{{ post.alt }}"
+            />
+
             <ul class="list-inline item-details">
               {% if post.language %}
               <li>
