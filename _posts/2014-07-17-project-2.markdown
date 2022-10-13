@@ -10,7 +10,7 @@ imgThree: usernameResults.png
 alt: image-alt-3
 project-date: April 2022
 language: C++
-category: Algorithms and Data Structures
+category: Algorithm and Data Structures
 github: <a href="https://github.com/spowers0409/username.git"><li>Username</li></a>
 description1: <strong> Briefly describe the artifact.  </strong>The artifact that I have chosen is from CS-405 - Secure Coding, and it is meant to display how a program will cancel out if too long of a value is entered. Currently the maximum value to be able to get the answer the application is seeking is 20 characters long. If one is to type over 20 characters then the application will cancel out. You will see in the below image how the original project was created before I made my additions to it.
 description2: <strong> Justify the inclusion of the artifact in your ePortfolio. </strong>I chose to go with the project because it seemed like something that could be used in the real world, as a means of logging into a database or an account of sorts. I decided that I wanted to add on to this program and recreate it in a way that can give someone an access code to gain entry into something based on who they are and if their name is recognized. I wanted to display that I can not only make a program more complex, but more meaningful as it has real world similarities. This project also displays the necessary skills to be able to show security in coding by testing against and array which could be from a database, and displays the proper use of boolean methods, if/else statements, and how a program can compare user input information to what is set inside an array.
