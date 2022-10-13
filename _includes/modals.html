@@ -63,6 +63,11 @@
                 Service:
                 <strong>{{ post.category }}</strong>
               </li>
+              {% endif %} {% if post.github %}
+              <li>
+                Githubers:
+                <strong>{{ post.github }}</strong>
+              </li>
               {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal">
