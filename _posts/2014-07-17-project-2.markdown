@@ -6,6 +6,8 @@ img: username.png
 alt: image-alt
 imgTwo: bufferOverflow.png
 alt: image-alt-2
+imgThree: usernameResults.png
+alt: image-alt-3
 project-date: April 2022
 language: C++
 category: Algorithms and Data Structures
