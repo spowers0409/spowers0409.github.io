@@ -27,7 +27,15 @@
 
             {% if post.description1 %}
             <p>{{ post.description1 }}</p>
-            {% endif %} {% if post.description2 %}
+            {% endif %}
+
+            <img
+              src="img/portfolio/{{ post.img }}"
+              class="img-responsive img-centered"
+              alt="{{ post.alt }}"
+            />
+
+            {% if post.description2 %}
             <p>{{ post.description2 }}</p>
             {% endif %} {% if post.description3 %}
             <p>{{ post.description3 }}</p>
