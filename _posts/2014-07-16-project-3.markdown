@@ -9,7 +9,7 @@ alt: image-alt-2
 project-date: April 2014
 language: SQL
 category: Database
-github: [Change this repo](https://github.com/spowers0409/Linear-Search.git)
+github: Link to repo
 description1: <strong> Briefly describe the artifact.  </strong>The artifact that I have chosen is from DAD-220. In this class the objective was to view data from a .csv file that held information about Fleet Maintenance Records. The data table that was provided gave vehicle ID, State, Repair, Reason, Year, Make, and Body Type. The goal was to search for records using any of the data table options and return specified information as well as find common repairs. Below you will see the only table that was created originally, with addition of the customerID that I added myself. 
 description2: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 description3: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
