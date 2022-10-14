@@ -6,7 +6,9 @@ img: database.png
 alt: image-alt
 imgTwo: maintenance_records.png
 alt: image-alt-2
-project-date: April 2014
+imgThree: crossJoin.png
+alt: image-alt-3
+project-date: April 2021
 language: SQL
 category: MySQL Database
 github: <a href="https://github.com/spowers0409/Fleet-Maintenance-Records.git"><li>F.M.R</li></a>
