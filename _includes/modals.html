@@ -47,6 +47,10 @@
               alt="{{ post.alt }}"
             />
 
+            {% if post.description4 %}
+            <p>{{ post.description4 }}</p>
+            {% endif %}
+
             <ul class="list-inline item-details">
               {% if post.language %}
               <li>
