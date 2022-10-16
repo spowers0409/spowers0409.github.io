@@ -299,9 +299,9 @@ section.success {
 
 .btn-review {
     margin-top: 15px;
-    border: solid 2px #ef7c8e;
+    border: solid 2px #18bc9c;
     font-size: 20px;
-    color: #fae8e0;
+    color: #18bc9c;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
