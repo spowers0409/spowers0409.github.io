@@ -297,6 +297,24 @@ section.success {
     background: #18bc9c;
 }
 
+.btn-review {
+    margin-top: 15px;
+    border: solid 2px #ef7c8e;
+    font-size: 20px;
+    color: #fae8e0;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.btn-review:hover,
+.btn-review:focus,
+.btn-review:active,
+.btn-review.active {
+    border: solid 2px #d8a7b1;
+    color: #{{ site.color.primary }};
+    background: #76b947;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
