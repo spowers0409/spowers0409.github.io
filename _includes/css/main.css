@@ -311,8 +311,8 @@ section.success {
 .btn-review:active,
 .btn-review.active {
     border: solid 2px #18bc9c;
-    color: #{{ site.color.primary }};
-    background: #76b947;
+    color: #fff;
+    background: #18bc9c;
 }
 
 .floating-label-form-group {
