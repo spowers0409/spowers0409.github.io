@@ -310,7 +310,7 @@ section.success {
 .btn-review:focus,
 .btn-review:active,
 .btn-review.active {
-    border: solid 2px #d8a7b1;
+    border: solid 2px #18bc9c;
     color: #{{ site.color.primary }};
     background: #76b947;
 }
