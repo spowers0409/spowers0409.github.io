@@ -9,7 +9,7 @@ alt: image-alt-2
 imgThree: linearSearchResults.png
 alt: image-alt-3
 project-date: October 2021
-language: SQL
+language: Python
 category: Software Design
 github: <a href="https://github.com/spowers0409/Linear-Search.git"><li>Python Linear Search</li></a>
 description1: <strong> Briefly describe the artifact.  </strong>The artifact that I have chosen is from CS-260 - Data Structures and Algorithms. In this artifact, we were tasked with creating an array of numbers, and then requesting user input to determine where at in the array that the indexed number lies. The changes that I want to make with this project is to recreate the program using Python as the language and coming up with the same results. Below you will see how the project was created using C++. As you can see, it was created and able to successfully run the project, but I did lack in commenting the code properly to what each portion of the project does or what it is supposed to do. 
